@@ -8,6 +8,7 @@ const GameWrapper = styled.div`
     justify-content: center;
 `;
 
+// Just as I like it
 const Game = () => {
     return (
         <GameWrapper>
